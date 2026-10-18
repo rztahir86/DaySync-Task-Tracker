@@ -1,0 +1,6 @@
+{
+  "name": "DaySync - Task Tracker & WhatsApp Senior Briefing",
+  "description": "Smart task organizer and daily progress briefing generator for sending polished WhatsApp updates to your senior or manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
